@@ -1,0 +1,3 @@
+[console_scripts]
+pep440=pep440.__main__:main
+
